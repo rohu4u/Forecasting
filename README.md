@@ -1,2 +1,2 @@
 # Forecasting-Project
-Stock Market Data Forecasting by using machine learning and deep learning algorithms.
+Stock Market Data Forecasting by using Machine Learning and Deep Learning Algorithms.
